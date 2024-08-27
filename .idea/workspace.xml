@@ -4,21 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ff95d10-f84d-491f-957e-b4bb66e9fff3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/WebDriverFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LoginLogoutTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/RegistrTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TransitionsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/ForgotPasswordPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/MainPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/ProfilePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/RegisterPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/browser.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/yandexdriver.exe" afterDir="false" />
+    <list default="true" id="8ff95d10-f84d-491f-957e-b4bb66e9fff3" name="Changes" comment="Диплом, часть 3 - Приложение">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,37 +35,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "JUnit.LoginLogoutTest.createUser.executor": "Run",
-    "JUnit.LoginLogoutTest.deleteUser.executor": "Run",
-    "JUnit.LoginLogoutTest.deleteUsers.executor": "Run",
-    "JUnit.LoginLogoutTest.executor": "Run",
-    "JUnit.LoginLogoutTest.getAccesToken.executor": "Run",
-    "JUnit.LoginLogoutTest.loginUser.executor": "Run",
-    "JUnit.LoginLogoutTest.loginUserButtonPersonalAccount.executor": "Run",
-    "JUnit.LoginLogoutTest.loginUserMainPage.executor": "Debug",
-    "JUnit.LoginLogoutTest.loginUserOnFormRecoveryPassword.executor": "Run",
-    "JUnit.LoginLogoutTest.loginUserOnFormRegistr.executor": "Run",
-    "JUnit.LoginLogoutTest.logoutUserFromPersonalAccount.executor": "Run",
-    "JUnit.LoginLogoutTest.newUser.executor": "Run",
-    "JUnit.RegistrTest.executor": "Run",
-    "JUnit.RegistrTest.newUserPasswordErrorFalse.executor": "Run",
-    "JUnit.RegistrTest.newUserTrue.executor": "Run",
-    "JUnit.TransitionsTest.executor": "Run",
-    "JUnit.TransitionsTest.transitionFromPersonalAccountOnLogo.executor": "Run",
-    "JUnit.TransitionsTest.transitionFromPersonalAccountToConstructor.executor": "Run",
-    "JUnit.TransitionsTest.transitionToFillings.executor": "Run",
-    "JUnit.TransitionsTest.transitionToPersonalAccount.executor": "Run",
-    "JUnit.TransitionsTest.transitionToRolls.executor": "Run",
-    "JUnit.TransitionsTest.transitionToSauces.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "develop3",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/mzink_sznbxnl/Yandex/Diplom/diplom_3/src/test/resources"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.LoginLogoutTest.createUser.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LoginLogoutTest.deleteUser.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LoginLogoutTest.deleteUsers.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LoginLogoutTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LoginLogoutTest.getAccesToken.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LoginLogoutTest.loginUser.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LoginLogoutTest.loginUserButtonPersonalAccount.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LoginLogoutTest.loginUserMainPage.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.LoginLogoutTest.loginUserOnFormRecoveryPassword.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LoginLogoutTest.loginUserOnFormRegistr.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LoginLogoutTest.logoutUserFromPersonalAccount.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LoginLogoutTest.newUser.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RegistrTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RegistrTest.newUserPasswordErrorFalse.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RegistrTest.newUserTrue.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TransitionsTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TransitionsTest.transitionFromPersonalAccountOnLogo.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TransitionsTest.transitionFromPersonalAccountToConstructor.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TransitionsTest.transitionToFillings.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TransitionsTest.transitionToPersonalAccount.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TransitionsTest.transitionToRolls.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TransitionsTest.transitionToSauces.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;develop3&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/mzink_sznbxnl/Yandex/Diplom/diplom_3/src/test/resources&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\mzink_sznbxnl\Yandex\Diplom\diplom_3\src\test\resources" />
@@ -158,7 +145,20 @@
       <option name="presentableId" value="Default" />
       <updated>1724451255686</updated>
     </task>
+    <task id="LOCAL-00001" summary="Диплом, часть 3 - Приложение">
+      <option name="closed" value="true" />
+      <created>1724631288132</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1724631288132</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Диплом, часть 3 - Приложение" />
+    <option name="LAST_COMMIT_MESSAGE" value="Диплом, часть 3 - Приложение" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
